@@ -1,4 +1,4 @@
-# SpaceConcordia IntroTask, Eleectrical Power System
+# SpaceConcordia IntroTask, Electrical Power System
 Place to Document what I find and learn
 
 # Introduction
